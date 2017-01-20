@@ -1,0 +1,289 @@
+Sun Dec 07 2014 19:36:29 GMT+0100 (CET)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Tue Dec 23 2014 04:01:24 GMT+0800 (CST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Fri Dec 26 2014 12:06:40 GMT+0100 (CET)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Fri Dec 26 2014 12:39:58 GMT+0100 (CET)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Fri Mar 20 2015 21:53:38 GMT+0100 (CET)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Thu Apr 02 2015 16:30:34 GMT+0200 (W. Europe Summer Time)  ipInfo|59.108.94.196,Beijing,39.9289,116.3883
+
+Thu Apr 02 2015 17:18:43 GMT+0200 (W. Europe Summer Time)  ipInfo|59.108.94.196,Beijing,39.9289,116.3883
+Thu Apr 02 2015 17:18:46 GMT+0200 (W. Europe Summer Time)  ipInfo|59.108.94.196,Beijing,39.9289,116.3883
+Thu Apr 02 2015 17:18:47 GMT+0200 (W. Europe Summer Time)  ipInfo|59.108.94.196,Beijing,39.9289,116.3883
+Thu Apr 02 2015 17:18:55 GMT+0200 (W. Europe Summer Time)  ipInfo|59.108.94.196,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 09:42:27 GMT+0800 (中国标准时间)  ipInfo|159.226.67.141,Beijing,39.9289,116.3883
+Fri Apr 03 2015 09:42:28 GMT+0800 (中国标准时间)  ipInfo|159.226.67.141,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 10:37:20 GMT+0800 (中国标准时间)  ipInfo|159.226.67.141,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 10:38:43 GMT+0800 (中国标准时间)  ipInfo|159.226.67.142,Beijing,39.9289,116.3883
+Fri Apr 03 2015 10:38:44 GMT+0800 (中国标准时间)  ipInfo|159.226.67.142,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 10:39:09 GMT+0800 (中国标准时间)  ipInfo|159.226.67.142,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 10:42:46 GMT+0800 (中国标准时间)  ipInfo|159.226.67.141,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 10:43:57 GMT+0800 (中国标准时间)  ipInfo|159.226.67.142,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 10:46:13 GMT+0800 (中国标准时间)  ipInfo|159.226.67.142,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 10:47:23 GMT+0800 (中国标准时间)  ipInfo|159.226.67.142,Beijing,39.9289,116.3883
+Fri Apr 03 2015 10:48:09 GMT+0800 (中国标准时间)  ipInfo|159.226.67.142,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 10:48:44 GMT+0800 (中国标准时间)  ipInfo|159.226.67.142,Beijing,39.9289,116.3883
+Fri Apr 03 2015 10:48:45 GMT+0800 (中国标准时间)  ipInfo|159.226.67.141,Beijing,39.9289,116.3883
+
+Fri Apr 03 2015 10:49:16 GMT+0800 (中国标准时间)  ipInfo|159.226.67.141,Beijing,39.9289,116.3883
+Fri Apr 03 2015 10:49:17 GMT+0800 (中国标准时间)  ipInfo|159.226.67.142,Beijing,39.9289,116.3883
+
+Thu Apr 09 2015 11:01:00 GMT+0200 (W. Europe Daylight Time)  ipInfo|79.135.1.2,Oslo,59.9167,10.7500
+Wed Apr 15 2015 22:13:11 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Wed Apr 15 2015 22:41:39 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Apr 15 2015 22:43:10 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Apr 15 2015 23:03:27 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Apr 15 2015 23:27:24 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Apr 15 2015 23:27:52 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Apr 15 2015 23:28:45 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Apr 15 2015 23:32:23 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Apr 15 2015 23:36:03 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Thu Apr 16 2015 16:33:52 GMT+0200 (W. Europe Daylight Time)  ipInfo|79.135.1.2,Oslo,59.9167,10.7500
+
+Thu Apr 16 2015 16:35:21 GMT+0200 (W. Europe Daylight Time)  ipInfo|79.135.1.2,Oslo,59.9167,10.7500
+Thu Apr 16 2015 16:35:22 GMT+0200 (W. Europe Daylight Time)  ipInfo|79.135.1.2,Oslo,59.9167,10.7500
+
+Fri Apr 17 2015 11:46:30 GMT+0200 (W. Europe Daylight Time)  ipInfo|79.135.1.2,Oslo,59.9167,10.7500
+
+Fri Apr 17 2015 16:43:53 GMT+0200 (CEST)  ipInfo|176.11.161.206,null,59.9500,10.7500
+
+Tue Apr 21 2015 23:39:11 GMT+0200 (W. Europe Summer Time)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Tue Apr 21 2015 23:43:11 GMT+0200 (W. Europe Summer Time)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Apr 22 2015 11:47:15 GMT+0200 (W. Europe Daylight Time)  ipInfo|79.135.1.2,Oslo,59.9167,10.7500
+
+Wed Apr 22 2015 13:26:39 GMT+0200 (W. Europe Daylight Time)  ipInfo|79.135.1.2,Oslo,59.9167,10.7500
+
+Wed Apr 22 2015 17:30:43 GMT+0200 (W. Europe Summer Time)  ipInfo|195.159.215.2,Oslo,59.9132,10.7389
+Wed Apr 22 2015 17:32:09 GMT+0200 (W. Europe Summer Time)  ipInfo|195.159.215.2,Oslo,59.9132,10.7389
+Wed Apr 22 2015 18:41:28 GMT+0200 (W. Europe Summer Time)  ipInfo|195.159.215.2,Oslo,59.9132,10.7389
+
+Wed Jun 03 2015 00:21:25 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Wed Jun 03 2015 00:21:26 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Jun 03 2015 00:22:31 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Jun 03 2015 00:25:58 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Wed Jun 03 2015 00:25:59 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Jun 03 2015 00:28:42 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+
+Wed Jun 03 2015 00:29:24 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Tue Jun 09 2015 15:58:49 GMT+0200 (W. Europe Daylight Time)  ipInfo|79.135.1.2,Oslo,59.9167,10.7500
+Wed Jun 10 2015 13:45:30 GMT+0200 (W. Europe Daylight Time)  ipInfo|79.135.1.2,Oslo,59.9167,10.7500
+Wed Jun 10 2015 18:21:35 GMT+0200 (CEST)  ipInfo|195.159.215.2,Oslo,59.9132,10.7389
+Wed Jun 17 2015 23:05:43 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Wed Jun 17 2015 23:07:06 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Wed Jul 01 2015 14:52:07 GMT+0200 (W. Europe Summer Time)  ipInfo|131.165.14.1,null,55.6761,12.5683
+Mon Aug 31 2015 21:51:18 GMT+0200 (CEST)  ipInfo|92.220.130.228,null,59.9500,10.7500
+Thu Dec 03 2015 01:32:14 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+
+Thu Dec 03 2015 01:35:28 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+
+Thu Dec 03 2015 02:16:45 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+
+Fri Jan 15 2016 00:26:50 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+
+Sat Jan 16 2016 00:33:38 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+
+Sat Jan 16 2016 01:59:03 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+
+Fri Feb 19 2016 15:28:31 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Tue Mar 01 2016 22:53:42 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+
+Thu Mar 03 2016 23:39:01 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+
+Thu Mar 10 2016 22:45:29 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+Thu Mar 10 2016 22:45:30 GMT+0100 (CET)  ipInfo|51.175.77.204,Stavanger,58.9667,5.7500
+
+Fri Mar 11 2016 08:38:54 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:39:33 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:40:10 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:42:15 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:42:40 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:43:18 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:43:50 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+Fri Mar 11 2016 08:43:51 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:55:20 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:55:25 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:55:28 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:56:51 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:56:54 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:57:00 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:57:19 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:57:36 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 08:58:32 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 09:01:27 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 09:03:47 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+Fri Mar 11 2016 09:03:48 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 09:04:42 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 09:05:04 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+Fri Mar 11 2016 09:05:07 GMT+0100 (W. Europe Standard Time)  ipInfo|213.52.71.77,,59.9500,10.7500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

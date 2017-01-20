@@ -1,0 +1,51 @@
+for (var i = 0; i < spec.pieDat.Record.length; i++) {
+  var lat = spec.pieDat.Lat[i]
+  var lon = spec.pieDat.Lon[i]
+  var cnt = spec.pieDat.County[i]
+  var str = spec.pieDat.Record[i]
+  var cht = spec.pieDat.Chapter[i]
+  var pDrought = /旱/
+    var pFlood = /水|溢|决/
+    var pLocust = /蝗|蝻/
+    var pPlague = /瘟|疫/
+    var pFamine = /饥|馑/
+    
+  if(pDrought.test(str)) {
+    var drought = 1
+  } else {
+    var drought = 0
+  }
+  if(pFlood.test(str)) {
+    var flood  =  1
+  } else {
+    var flood  = 0
+  }
+  if(pLocust.test(str)) {
+    var locust = 1
+  } else {
+    var locust =  0
+  }
+  if(pPlague.test(str)) {
+    var plague = 1
+  } else {
+    var plague =0
+  }
+  if(pFamine.test(str)) {
+    var famine = 1
+  } else {
+    var famine =  0
+  }
+  
+  L.piechartMarker(
+    L.latLng([lat, lon]),
+  { radius: 10,
+    data: [
+  { name: 'Drought', value: drought, style: { fillStyle: 'rgba(255,71,26,.9)'}},
+  { name: 'Flood',   value: flood  , style: { fillStyle: 'rgba(23,93,255,.9)'}},
+  { name: 'Locust',  value: locust , style: { fillStyle: 'rgba(255,175,29,.9)'}},
+  { name: 'Plague',  value: plague , style: { fillStyle: 'rgba(255,148,238,.9)'}},
+  { name: 'Famine',  value: famine , style: { fillStyle: 'rgba(24,255,237,.9)'}}
+  ]
+  }
+  ).bindPopup(cnt + "<br>" + str + "<br>" + cht).addTo(map);
+}
